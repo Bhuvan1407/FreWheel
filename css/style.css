@@ -204,7 +204,7 @@ h2{
     background-color: rgb(248, 245, 219);
     justify-content: center;
     align-items: center;
-    margin: 9px 484px;
+    /* margin: 9px 484px; */
     font-size: 20px;
 }
 .foot{
