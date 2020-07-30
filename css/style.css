@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
 *{
     margin: 0px;
     padding: 0px;
@@ -204,7 +204,6 @@ h2{
     background-color: rgb(248, 245, 219);
     justify-content: center;
     align-items: center;
-    margin: 9px 484px;
     font-size: 20px;
 }
 .foot{
